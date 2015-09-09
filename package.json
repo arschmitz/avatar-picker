@@ -1,0 +1,25 @@
+{
+  "name": "avatar-picker",
+  "description": "A set of assertions for checking thats an element has ( or does not have ) any number of classes. The check is order independent and gives a diff of the expected classes.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Alex Schmitz and other contributors"
+  },
+  "homepage": "https://github.com/arschmitz/avatar-picker",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arschmitz/avatar-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arschmitz/avatar-picker/issues"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "keywords": [
+    "avatar",
+    "picker",
+    "avatar-picker"
+  ]
+}
