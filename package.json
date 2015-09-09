@@ -1,7 +1,7 @@
 {
   "name": "avatar-picker",
   "description": "A set of tools for selecting cropping and positioning avatars. Forked from https://bitbucket.org/atlassianlabs/avatar-picker/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Alex Schmitz and other contributors"
   },
